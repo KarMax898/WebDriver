@@ -1,0 +1,413 @@
+2022-10-19 03:41:37,264 INFO o.e.Main [main] Драйвер поднят
+2022-10-19 03:41:41,134 INFO o.e.Main [main] Открыта страница отус
+2022-10-19 03:41:42,685 INFO o.e.Main [main] Авторизация прошла успешно
+2022-10-19 03:41:47,087 INFO o.e.Main [main] Перешел в личный кабинет
+2022-10-19 03:41:54,537 INFO o.e.Main [main] Драйвер поднят
+2022-10-19 03:42:28,014 INFO o.e.Main [main] Авторизация прошла успешно
+2022-10-19 03:43:03,133 INFO o.e.Main [main] Перешел в личный кабинет
+2022-10-19 04:02:14,587 ERROR cookies.FirstTest [main] Я есть  ошибка
+2022-10-19 06:47:31,953 INFO cookies.FirstTest [main]  Драйвер поднят
+2022-10-19 07:36:49,115 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-19 07:37:20,997 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-19 07:37:23,130 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-19 07:37:27,632 INFO cookies.FirstTest [main] Перешел в личный кабинет
+2022-10-19 07:37:34,706 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-19 07:37:39,616 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-19 07:37:44,194 INFO cookies.FirstTest [main] Перешел в личный кабинет
+2022-10-21 05:50:46,152 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 05:50:46,259 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 05:51:20,711 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 07:02:13,846 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 07:02:17,910 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 07:02:19,258 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 07:02:21,659 INFO cookies.FirstTest [main] Перешел в личный кабинет
+2022-10-21 07:03:41,376 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 07:03:44,802 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 07:03:46,354 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 07:03:48,848 INFO cookies.FirstTest [main] Перешел в личный кабинет
+2022-10-21 07:13:57,642 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 07:14:02,972 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 07:14:04,659 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 07:14:05,913 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 07:14:08,699 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 07:14:10,508 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 07:14:34,554 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 07:14:38,047 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 07:14:39,700 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 08:08:19,436 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 08:08:22,845 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 08:14:19,796 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 08:14:23,064 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 08:14:24,596 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 08:18:40,821 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 08:18:44,537 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 08:18:45,977 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 08:19:10,874 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 08:19:14,662 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 08:19:16,314 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 08:19:32,624 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 08:19:35,724 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 08:19:37,366 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 08:20:18,891 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 08:20:22,111 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 08:20:23,581 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 08:22:25,762 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 08:22:28,955 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 08:22:30,532 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 11:49:02,258 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 11:49:05,775 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 11:49:07,293 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 11:49:10,895 INFO cookies.FirstTest [main] [auth_token_expires=1760950147; expires=сб, 25 нояб. 2023 11:49:09 MSK; path=/; domain=.otus.ru, advcake_track_id=4ff78ca3-beba-1ae1-4b4a-17c2fb9a9c3c; expires=вс, 20 нояб. 2022 11:49:05 MSK; path=/; domain=.otus.ru, sessionid=5esvoo4chn9b258zgf1mswt6utxwglpm; expires=чт, 19 янв. 2023 11:49:09 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=31ce58ca9ff466642f478f220c3f2cee; expires=сб, 25 нояб. 2023 11:49:09 MSK; path=/; domain=.otus.ru, _ym_d=1666342144; expires=сб, 21 окт. 2023 11:49:04 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=ср, 15 нояб. 2023 11:49:10 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=пт, 21 окт. 2022 12:19:10 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=ср, 19 апр. 2023 11:49:05 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1539895166.1666342145; expires=сб, 22 окт. 2022 11:49:10 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=сб, 25 нояб. 2023 11:49:09 MSK; path=/; domain=.otus.ru, analytic_id=1666342145952563; expires=сб, 25 нояб. 2023 11:49:05 MSK; path=/; domain=.otus.ru, _ym_uid=1666342144117644578; expires=сб, 21 окт. 2023 11:49:04 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=a0b99329-eb27-42c6-a7c8-022ad26e8f19; expires=ср, 19 апр. 2023 11:49:05 MSK; path=/; domain=.otus.ru, _gat=1; expires=пт, 21 окт. 2022 11:50:05 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=сб, 22 окт. 2022 07:49:05 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1252921298.1666342145; expires=сб, 25 нояб. 2023 11:49:09 MSK; path=/; domain=.otus.ru, auth_token=pspw_o-KNHhUP9qtwb9pOQ; expires=сб, 25 нояб. 2023 11:49:09 MSK; path=/; domain=.otus.ru, _ttp=583cbf06-1b15-4ad4-9fb5-5e911462a2d5; expires=ср, 15 нояб. 2023 11:49:10 MSK; path=/; domain=.otus.ru, advcake_session_id=c14f1ad8-dd93-8db2-e39d-4f55831acc84; expires=вс, 20 нояб. 2022 11:49:05 MSK; path=/; domain=.otus.ru]
+2022-10-21 11:50:43,207 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 11:50:46,628 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 11:50:48,184 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 11:51:41,506 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 11:51:45,195 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 11:51:47,338 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 12:10:11,715 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 12:10:15,759 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 12:10:17,086 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 12:10:21,613 INFO cookies.FirstTest [main] [auth_token_expires=1760951417; expires=сб, 25 нояб. 2023 12:10:20 MSK; path=/; domain=.otus.ru, advcake_track_id=7c3afa9e-b0f1-3331-f621-67b760bce645; expires=вс, 20 нояб. 2022 12:10:14 MSK; path=/; domain=.otus.ru, sessionid=rfd0oo5nam9xn3mfqkawfjpv8ljwl34g; expires=чт, 19 янв. 2023 12:10:20 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=31ce58ca9ff466642f478f220c3f2cee; expires=сб, 25 нояб. 2023 12:10:20 MSK; path=/; domain=.otus.ru, _ym_d=1666343415; expires=сб, 21 окт. 2023 12:10:14 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=ср, 15 нояб. 2023 12:10:21 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=пт, 21 окт. 2022 12:40:21 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=ср, 19 апр. 2023 12:10:15 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1981373153.1666343415; expires=сб, 22 окт. 2022 12:10:20 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=сб, 25 нояб. 2023 12:10:20 MSK; path=/; domain=.otus.ru, analytic_id=1666343415943557; expires=сб, 25 нояб. 2023 12:10:15 MSK; path=/; domain=.otus.ru, _ym_uid=1666343415594361092; expires=сб, 21 окт. 2023 12:10:14 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=495fe254-d48b-4c14-b760-1c33a9c8a8e9; expires=ср, 19 апр. 2023 12:10:15 MSK; path=/; domain=.otus.ru, _gat=1; expires=пт, 21 окт. 2022 12:11:14 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=сб, 22 окт. 2022 08:10:15 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.939056180.1666343415; expires=сб, 25 нояб. 2023 12:10:20 MSK; path=/; domain=.otus.ru, auth_token=p3LDyFMdYzrGiVAj9yV-Qg; expires=сб, 25 нояб. 2023 12:10:20 MSK; path=/; domain=.otus.ru, _ttp=fe4073cd-e29f-4a40-ac47-6e590a0fbc82; expires=ср, 15 нояб. 2023 12:10:21 MSK; path=/; domain=.otus.ru, advcake_session_id=4558f03e-c1f3-99d7-63bb-33b657c47a43; expires=вс, 20 нояб. 2022 12:10:14 MSK; path=/; domain=.otus.ru]
+2022-10-21 12:34:32,634 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 12:34:36,378 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 12:34:37,940 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 12:34:40,186 INFO cookies.FirstTest [main] rer
+2022-10-21 12:35:14,264 INFO cookies.FirstTest [main] Драйвер поднят
+2022-10-21 12:35:18,778 INFO cookies.FirstTest [main] Открыта страница отус
+2022-10-21 12:35:20,431 INFO cookies.FirstTest [main] Авторизация прошла успешно
+2022-10-21 12:35:22,865 INFO cookies.FirstTest [main] [auth_token_expires=1760952919; expires=сб, 25 нояб. 2023 12:35:21 MSK; path=/; domain=.otus.ru, advcake_track_id=acc67814-b534-f061-bdca-e6af861b8209; expires=вс, 20 нояб. 2022 12:35:17 MSK; path=/; domain=.otus.ru, sessionid=vkxp9c7sn08op6cjzi6aqqzl3ra406ps; expires=чт, 19 янв. 2023 12:35:21 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=31ce58ca9ff466642f478f220c3f2cee; expires=сб, 25 нояб. 2023 12:35:21 MSK; path=/; domain=.otus.ru, _ym_d=1666344917; expires=сб, 21 окт. 2023 12:35:16 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=ср, 15 нояб. 2023 12:35:22 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=пт, 21 окт. 2022 01:05:22 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gid=GA1.2.683675905.1666344917; expires=сб, 22 окт. 2022 12:35:22 MSK; path=/; domain=.otus.ru, gdeslon.ru.__arc_domain=gdeslon.ru; expires=ср, 19 апр. 2023 12:35:17 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=сб, 25 нояб. 2023 12:35:21 MSK; path=/; domain=.otus.ru, analytic_id=1666344919714644; expires=сб, 25 нояб. 2023 12:35:19 MSK; path=/; domain=.otus.ru, _ym_uid=1666344917723041841; expires=сб, 21 окт. 2023 12:35:16 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=2fef15b0-e750-4cbb-b11b-5c29db743b66; expires=ср, 19 апр. 2023 12:35:17 MSK; path=/; domain=.otus.ru, _gat=1; expires=пт, 21 окт. 2022 12:36:17 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=сб, 22 окт. 2022 08:35:17 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1724014600.1666344917; expires=сб, 25 нояб. 2023 12:35:22 MSK; path=/; domain=.otus.ru, auth_token=NPqS47NID13W2aRsmUTTmg; expires=сб, 25 нояб. 2023 12:35:21 MSK; path=/; domain=.otus.ru, _ttp=c4228e36-472c-4586-98c6-fda192d8bcaf; expires=ср, 15 нояб. 2023 12:35:22 MSK; path=/; domain=.otus.ru, advcake_session_id=1e9cd385-4359-8314-19c9-5992ee07480b; expires=вс, 20 нояб. 2022 12:35:17 MSK; path=/; domain=.otus.ru]
+2022-10-21 13:50:57,324 INFO c.FirstTest [main] Драйвер поднят
+2022-10-21 13:51:00,664 INFO c.FirstTest [main] Открыта страница отус
+2022-10-21 13:51:02,232 INFO c.FirstTest [main] Авторизация прошла успешно
+2022-10-21 13:51:04,568 INFO c.FirstTest [main] [auth_token_expires=1760957461; expires=сб, 25 нояб. 2023 01:51:03 MSK; path=/; domain=.otus.ru, advcake_track_id=46eb8ebc-e885-36c4-452d-2d197d7577cb; expires=вс, 20 нояб. 2022 01:51:00 MSK; path=/; domain=.otus.ru, sessionid=1et0phe53d0yv5g93822516034i53lcx; expires=чт, 19 янв. 2023 01:51:03 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=31ce58ca9ff466642f478f220c3f2cee; expires=сб, 25 нояб. 2023 01:51:03 MSK; path=/; domain=.otus.ru, _ym_d=1666349460; expires=сб, 21 окт. 2023 01:50:59 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=ср, 15 нояб. 2023 01:51:04 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=пт, 21 окт. 2022 02:21:04 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=ср, 19 апр. 2023 01:51:00 MSK; path=/; domain=.otus.ru, _gid=GA1.2.622538466.1666349460; expires=сб, 22 окт. 2022 01:51:03 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=сб, 25 нояб. 2023 01:51:03 MSK; path=/; domain=.otus.ru, analytic_id=1666349461150622; expires=сб, 25 нояб. 2023 01:51:01 MSK; path=/; domain=.otus.ru, _ym_uid=1666349460592488027; expires=сб, 21 окт. 2023 01:50:59 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=0f5eb08a-bae0-4600-a18b-ce1cd7568faa; expires=ср, 19 апр. 2023 01:51:00 MSK; path=/; domain=.otus.ru, _gat=1; expires=пт, 21 окт. 2022 01:52:00 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=сб, 22 окт. 2022 09:51:00 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.865548104.1666349460; expires=сб, 25 нояб. 2023 01:51:03 MSK; path=/; domain=.otus.ru, auth_token=dNasZ3oGBqwtuYKHWns9Hg; expires=сб, 25 нояб. 2023 01:51:03 MSK; path=/; domain=.otus.ru, _ttp=0b32b231-f4ca-4e30-a50f-9610ee21a1b1; expires=ср, 15 нояб. 2023 01:51:04 MSK; path=/; domain=.otus.ru, advcake_session_id=377d4946-ea93-ca00-0140-81e8796de83f; expires=вс, 20 нояб. 2022 01:51:00 MSK; path=/; domain=.otus.ru]
+2022-10-21 13:51:24,528 INFO f.Kiosk [main] Драйвер поднят
+2022-10-21 13:51:52,876 INFO c.FirstTest [main] Драйвер поднят
+2022-10-21 13:51:57,176 INFO c.FirstTest [main] Открыта страница отус
+2022-10-21 13:51:58,625 INFO c.FirstTest [main] Авторизация прошла успешно
+2022-10-21 13:52:01,211 INFO c.FirstTest [main] [auth_token_expires=1760957517; expires=сб, 25 нояб. 2023 01:52:00 MSK; path=/; domain=.otus.ru, advcake_track_id=3f24f840-c807-7a47-6494-a575820633a5; expires=вс, 20 нояб. 2022 01:51:56 MSK; path=/; domain=.otus.ru, sessionid=pl3939m5gd0711l8n2n11q4pcwgop12w; expires=чт, 19 янв. 2023 01:52:00 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1666349516; expires=сб, 21 окт. 2023 01:51:56 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, oid=31ce58ca9ff466642f478f220c3f2cee; expires=сб, 25 нояб. 2023 01:52:00 MSK; path=/; domain=.otus.ru, _tt_enable_cookie=1; expires=ср, 15 нояб. 2023 01:52:01 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=пт, 21 окт. 2022 02:22:01 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=ср, 19 апр. 2023 01:51:56 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=сб, 25 нояб. 2023 01:52:00 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1855226718.1666349516; expires=сб, 22 окт. 2022 01:52:00 MSK; path=/; domain=.otus.ru, analytic_id=1666349517469523; expires=сб, 25 нояб. 2023 01:51:57 MSK; path=/; domain=.otus.ru, _ym_uid=16663495161037433362; expires=сб, 21 окт. 2023 01:51:56 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=00971365-b35e-4c9b-9ef8-8fc96d969280; expires=ср, 19 апр. 2023 01:51:56 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=сб, 22 окт. 2022 09:51:56 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gat=1; expires=пт, 21 окт. 2022 01:52:56 MSK; path=/; domain=.otus.ru, _ga=GA1.2.1527849071.1666349516; expires=сб, 25 нояб. 2023 01:52:00 MSK; path=/; domain=.otus.ru, auth_token=o6k1oqKMwOoxEkXZihdGzg; expires=сб, 25 нояб. 2023 01:52:00 MSK; path=/; domain=.otus.ru, _ttp=5f39ba27-d09a-431d-9784-2063242c4efa; expires=ср, 15 нояб. 2023 01:52:01 MSK; path=/; domain=.otus.ru, advcake_session_id=4a28d925-f024-d22a-66d0-417a911074d9; expires=вс, 20 нояб. 2022 01:51:56 MSK; path=/; domain=.otus.ru]
+2022-10-21 14:07:00,997 INFO f.Kiosk [main] Драйвер поднят
+2022-10-21 14:07:02,557 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-21 14:07:56,700 INFO f.Kiosk [main] Драйвер поднят
+2022-10-21 14:07:58,551 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-21 14:56:50,883 INFO f.Kiosk [main] Драйвер поднят
+2022-10-21 14:56:54,106 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-21 14:57:14,281 INFO c.FirstTest [main] Драйвер поднят
+2022-10-21 14:57:18,518 INFO c.FirstTest [main] Открыта страница отус
+2022-10-21 14:57:20,969 INFO c.FirstTest [main] Авторизация прошла успешно
+2022-10-21 14:57:23,716 INFO c.FirstTest [main] name = auth_token_expires , value = 1760961439
+2022-10-21 14:57:23,717 INFO c.FirstTest [main] name = advcake_track_id , value = 9ee6e548-06a5-44df-69cf-2613ee4c2b83
+2022-10-21 14:57:23,717 INFO c.FirstTest [main] name = sessionid , value = ff6babkfofcer7eyekkm99exgnupalhc
+2022-10-21 14:57:23,717 INFO c.FirstTest [main] name = oid , value = 31ce58ca9ff466642f478f220c3f2cee
+2022-10-21 14:57:23,718 INFO c.FirstTest [main] name = _ym_d , value = 1666353437
+2022-10-21 14:57:23,718 INFO c.FirstTest [main] name = _tt_enable_cookie , value = 1
+2022-10-21 14:57:23,718 INFO c.FirstTest [main] name = _ym_visorc , value = w
+2022-10-21 14:57:23,719 INFO c.FirstTest [main] name = gdeslon.ru.__arc_domain , value = gdeslon.ru
+2022-10-21 14:57:23,719 INFO c.FirstTest [main] name = _gid , value = GA1.2.625776637.1666353437
+2022-10-21 14:57:23,719 INFO c.FirstTest [main] name = utm , value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-10-21 14:57:23,719 INFO c.FirstTest [main] name = analytic_id , value = 1666353440131944
+2022-10-21 14:57:23,720 INFO c.FirstTest [main] name = _ym_uid , value = 1666353437248335369
+2022-10-21 14:57:23,720 INFO c.FirstTest [main] name = gdeslon.ru.user_id , value = 66db9206-4fd0-417f-b49d-7b862735b585
+2022-10-21 14:57:23,720 INFO c.FirstTest [main] name = _gat , value = 1
+2022-10-21 14:57:23,721 INFO c.FirstTest [main] name = _ym_isad , value = 2
+2022-10-21 14:57:23,722 INFO c.FirstTest [main] name = _ga , value = GA1.2.1821423837.1666353437
+2022-10-21 14:57:23,723 INFO c.FirstTest [main] name = auth_token , value = dDRtBqXAl8jya71hDqXs4w
+2022-10-21 14:57:23,727 INFO c.FirstTest [main] name = _ttp , value = bee6777c-98d0-4087-85bc-511f923e5390
+2022-10-21 14:57:23,728 INFO c.FirstTest [main] name = advcake_session_id , value = 2fc9f3fb-0a61-534a-01e6-4fbeb543ffb1
+2022-10-22 18:16:44,221 INFO c.FirstTest [main] Драйвер поднят
+2022-10-22 18:16:48,619 INFO c.FirstTest [main] Открыта страница отус
+2022-10-22 18:16:50,146 INFO c.FirstTest [main] Авторизация прошла успешно
+2022-10-22 18:16:52,225 INFO c.FirstTest [main] name = auth_token_expires , value = 1761059811
+2022-10-22 18:16:52,226 INFO c.FirstTest [main] name = advcake_track_id , value = ba63cb50-e362-e8ad-7749-b4a54efd2276
+2022-10-22 18:16:52,226 INFO c.FirstTest [main] name = sessionid , value = loai23vg3tm93phnotsiv5q2jyw603t8
+2022-10-22 18:16:52,227 INFO c.FirstTest [main] name = oid , value = 31ce58ca9ff466642f478f220c3f2cee
+2022-10-22 18:16:52,227 INFO c.FirstTest [main] name = _ym_d , value = 1666451806
+2022-10-22 18:16:52,227 INFO c.FirstTest [main] name = _tt_enable_cookie , value = 1
+2022-10-22 18:16:52,228 INFO c.FirstTest [main] name = _ym_visorc , value = w
+2022-10-22 18:16:52,228 INFO c.FirstTest [main] name = gdeslon.ru.__arc_domain , value = gdeslon.ru
+2022-10-22 18:16:52,229 INFO c.FirstTest [main] name = _gid , value = GA1.2.2093080581.1666451806
+2022-10-22 18:16:52,229 INFO c.FirstTest [main] name = utm , value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-10-22 18:16:52,229 INFO c.FirstTest [main] name = analytic_id , value = 1666451808954843
+2022-10-22 18:16:52,230 INFO c.FirstTest [main] name = _ym_uid , value = 1666451806686392951
+2022-10-22 18:16:52,230 INFO c.FirstTest [main] name = gdeslon.ru.user_id , value = db368e5b-d93a-421c-9049-f089ffe6c3f5
+2022-10-22 18:16:52,230 INFO c.FirstTest [main] name = _gat , value = 1
+2022-10-22 18:16:52,231 INFO c.FirstTest [main] name = _ym_isad , value = 2
+2022-10-22 18:16:52,231 INFO c.FirstTest [main] name = _ga , value = GA1.2.1825013957.1666451806
+2022-10-22 18:16:52,231 INFO c.FirstTest [main] name = auth_token , value = qO16CNDmySuXn2uxdijOgA
+2022-10-22 18:16:52,232 INFO c.FirstTest [main] name = _ttp , value = fc4f9e9b-1463-4e57-adbe-ae4d0a782f69
+2022-10-22 18:16:52,232 INFO c.FirstTest [main] name = advcake_session_id , value = 1029137f-63ce-e64e-0d29-63c5c60c613b
+2022-10-22 18:24:08,722 INFO c.FirstTest [main] Драйвер поднят
+2022-10-22 18:24:11,531 INFO c.FirstTest [main] Открыта страница отус
+2022-10-22 18:27:46,215 INFO c.FirstTest [main] Драйвер поднят
+2022-10-22 18:27:48,611 INFO c.FirstTest [main] Открыта страница отус
+2022-10-22 18:28:28,284 INFO c.FirstTest [main] Драйвер поднят
+2022-10-22 18:28:41,115 INFO c.FirstTest [main] Открыта страница отус
+2022-10-22 18:29:28,160 INFO c.FirstTest [main] Драйвер поднят
+2022-10-22 18:29:31,603 INFO c.FirstTest [main] Открыта страница отус
+2022-10-22 18:31:02,357 INFO c.FirstTest [main] Драйвер поднят
+2022-10-22 18:31:06,055 INFO c.FirstTest [main] Открыта страница отус
+2022-10-22 18:31:09,026 INFO c.FirstTest [main] Авторизация прошла успешно
+2022-10-22 18:31:12,329 INFO c.FirstTest [main] Драйвер поднят
+2022-10-22 18:31:13,041 INFO c.FirstTest [main] name = auth_token_expires , value = 1761060670
+2022-10-22 18:31:13,042 INFO c.FirstTest [main] name = advcake_track_id , value = 7e03116c-c1b5-1944-09f0-9e06793ceef8
+2022-10-22 18:31:13,043 INFO c.FirstTest [main] name = sessionid , value = jbys7twb38mepsc2rljyhu5kwfj9etgz
+2022-10-22 18:31:13,044 INFO c.FirstTest [main] name = _ym_d , value = 1666452665
+2022-10-22 18:31:13,044 INFO c.FirstTest [main] name = oid , value = 31ce58ca9ff466642f478f220c3f2cee
+2022-10-22 18:31:13,045 INFO c.FirstTest [main] name = _tt_enable_cookie , value = 1
+2022-10-22 18:31:13,045 INFO c.FirstTest [main] name = _ym_visorc , value = w
+2022-10-22 18:31:13,045 INFO c.FirstTest [main] name = utm , value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-10-22 18:31:13,046 INFO c.FirstTest [main] name = _gid , value = GA1.2.1158224760.1666452665
+2022-10-22 18:31:13,046 INFO c.FirstTest [main] name = gdeslon.ru.__arc_domain , value = gdeslon.ru
+2022-10-22 18:31:13,046 INFO c.FirstTest [main] name = analytic_id , value = 1666452667891997
+2022-10-22 18:31:13,046 INFO c.FirstTest [main] name = _ym_uid , value = 1666452665746270865
+2022-10-22 18:31:13,047 INFO c.FirstTest [main] name = gdeslon.ru.user_id , value = 38edf818-9c39-4fac-9497-8cbfd95e53ea
+2022-10-22 18:31:13,048 INFO c.FirstTest [main] name = _ym_isad , value = 2
+2022-10-22 18:31:13,048 INFO c.FirstTest [main] name = _gat , value = 1
+2022-10-22 18:31:13,048 INFO c.FirstTest [main] name = _ga , value = GA1.2.2006218950.1666452665
+2022-10-22 18:31:13,049 INFO c.FirstTest [main] name = auth_token , value = hiDhVIC2lp6hrATozQbqOw
+2022-10-22 18:31:13,049 INFO c.FirstTest [main] name = _ttp , value = a1f11714-3b38-483f-9ed9-646d1495d6d0
+2022-10-22 18:31:13,049 INFO c.FirstTest [main] name = advcake_session_id , value = 3ffb928c-e565-4f1c-5b91-a60ab786bcbf
+2022-10-22 18:31:15,831 INFO c.FirstTest [main] Открыта страница отус
+2022-10-22 18:31:17,558 INFO c.FirstTest [main] Авторизация прошла успешно
+2022-10-22 18:31:22,468 INFO c.FirstTest [main] name = auth_token_expires , value = 1761060679
+2022-10-22 18:31:22,468 INFO c.FirstTest [main] name = advcake_track_id , value = dd278abf-7b76-cdeb-6ce0-6d8c543605b0
+2022-10-22 18:31:22,468 INFO c.FirstTest [main] name = _ym_d , value = 1666452675
+2022-10-22 18:31:22,468 INFO c.FirstTest [main] name = sessionid , value = am6lbl17ip8vwa90k8zjdfc1os900vjl
+2022-10-22 18:31:22,468 INFO c.FirstTest [main] name = oid , value = 31ce58ca9ff466642f478f220c3f2cee
+2022-10-22 18:31:22,468 INFO c.FirstTest [main] name = _tt_enable_cookie , value = 1
+2022-10-22 18:31:22,469 INFO c.FirstTest [main] name = _ym_visorc , value = w
+2022-10-22 18:31:22,469 INFO c.FirstTest [main] name = gdeslon.ru.__arc_domain , value = gdeslon.ru
+2022-10-22 18:31:22,469 INFO c.FirstTest [main] name = utm , value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-10-22 18:31:22,470 INFO c.FirstTest [main] name = _gid , value = GA1.2.501557018.1666452675
+2022-10-22 18:31:22,470 INFO c.FirstTest [main] name = analytic_id , value = 1666452676310565
+2022-10-22 18:31:22,470 INFO c.FirstTest [main] name = _ym_uid , value = 1666452675700851132
+2022-10-22 18:31:22,470 INFO c.FirstTest [main] name = gdeslon.ru.user_id , value = a0699aeb-0fe8-49dc-ad34-a1927532449f
+2022-10-22 18:31:22,472 INFO c.FirstTest [main] name = _ym_isad , value = 2
+2022-10-22 18:31:22,472 INFO c.FirstTest [main] name = _gat , value = 1
+2022-10-22 18:31:22,472 INFO c.FirstTest [main] name = _ga , value = GA1.2.1168680902.1666452675
+2022-10-22 18:31:22,472 INFO c.FirstTest [main] name = auth_token , value = zFpMBgP8mwjfVYkOY9rdIg
+2022-10-22 18:31:22,473 INFO c.FirstTest [main] name = _ttp , value = 33424cfa-d065-426c-9c61-4e03c168b01c
+2022-10-22 18:31:22,473 INFO c.FirstTest [main] name = advcake_session_id , value = 56aebcf7-4405-054a-5320-7bffbb509eaa
+2022-10-22 18:31:36,941 INFO c.FirstTest [main] Драйвер поднят
+2022-10-22 18:31:40,926 INFO c.FirstTest [main] Открыта страница отус
+2022-10-22 18:31:42,319 INFO c.FirstTest [main] Авторизация прошла успешно
+2022-10-22 18:31:45,184 INFO c.FirstTest [main] name = auth_token_expires , value = 1761060704
+2022-10-22 18:31:45,184 INFO c.FirstTest [main] name = advcake_track_id , value = d05a5228-5ab0-6a27-1c73-4f62a7f66729
+2022-10-22 18:31:45,185 INFO c.FirstTest [main] name = sessionid , value = st7ztr5iu3mu0zw77p63zq80x8wcgaf8
+2022-10-22 18:31:45,185 INFO c.FirstTest [main] name = oid , value = 31ce58ca9ff466642f478f220c3f2cee
+2022-10-22 18:31:45,185 INFO c.FirstTest [main] name = _ym_d , value = 1666452700
+2022-10-22 18:31:45,185 INFO c.FirstTest [main] name = _tt_enable_cookie , value = 1
+2022-10-22 18:31:45,186 INFO c.FirstTest [main] name = _ym_visorc , value = w
+2022-10-22 18:31:45,186 INFO c.FirstTest [main] name = gdeslon.ru.__arc_domain , value = gdeslon.ru
+2022-10-22 18:31:45,187 INFO c.FirstTest [main] name = _gid , value = GA1.2.468985447.1666452700
+2022-10-22 18:31:45,188 INFO c.FirstTest [main] name = utm , value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-10-22 18:31:45,188 INFO c.FirstTest [main] name = analytic_id , value = 1666452701123814
+2022-10-22 18:31:45,188 INFO c.FirstTest [main] name = _ym_uid , value = 1666452700749482248
+2022-10-22 18:31:45,188 INFO c.FirstTest [main] name = gdeslon.ru.user_id , value = 249d6f46-acd9-47c3-bf61-2238c2a05405
+2022-10-22 18:31:45,188 INFO c.FirstTest [main] name = _gat , value = 1
+2022-10-22 18:31:45,188 INFO c.FirstTest [main] name = _ym_isad , value = 2
+2022-10-22 18:31:45,189 INFO c.FirstTest [main] name = _ga , value = GA1.2.1974571670.1666452700
+2022-10-22 18:31:45,189 INFO c.FirstTest [main] name = auth_token , value = OV46zSkqnUoeU0d3nSM0LA
+2022-10-22 18:31:45,189 INFO c.FirstTest [main] name = _ttp , value = 8b5f1433-6b71-40f7-bcd2-24f047ffd497
+2022-10-22 18:31:45,190 INFO c.FirstTest [main] name = advcake_session_id , value = 7b84e406-7308-4528-ca0a-cc546e8b340c
+2022-10-22 20:03:00,981 INFO f.Kiosk [main] Драйвер поднят
+2022-10-22 20:03:03,117 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-22 20:06:01,049 INFO f.Kiosk [main] Драйвер поднят
+2022-10-22 20:06:02,054 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-22 20:06:56,614 INFO f.Kiosk [main] Драйвер поднят
+2022-10-22 20:06:57,576 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-22 20:06:57,642 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-22 20:10:06,076 INFO f.Kiosk [main] Драйвер поднят
+2022-10-22 20:10:10,228 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-22 20:10:10,363 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-22 20:30:20,291 INFO f.Kiosk [main] Драйвер поднят
+2022-10-22 20:30:22,107 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-22 20:30:22,168 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-22 20:30:27,595 INFO f.Kiosk [main] Драйвер поднят
+2022-10-22 20:30:28,782 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-22 20:30:28,866 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-22 20:34:20,800 INFO f.Kiosk [main] Драйвер поднят
+2022-10-22 20:34:21,787 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-22 20:34:21,853 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-22 20:35:57,054 INFO f.Kiosk [main] Драйвер поднят
+2022-10-22 20:35:58,133 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-22 20:35:58,186 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-22 20:57:38,772 INFO h.BestTest [main]  Драйвер поднят
+2022-10-22 20:57:39,653 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-22 20:58:46,866 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-22 20:58:49,607 INFO h.BestTest [main]  Драйвер поднят
+2022-10-22 20:58:50,006 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 15:13:03,642 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-24 15:13:07,480 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 15:13:07,738 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 15:30:40,445 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-24 15:30:43,022 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 15:30:48,341 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 15:32:32,138 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-24 15:32:34,808 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 15:32:40,107 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 15:33:50,120 INFO f.Kiosk [main] Драйвер поднят
+2022-10-24 15:33:51,898 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-24 15:33:51,965 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-24 15:34:19,735 INFO f.Kiosk [main] Драйвер поднят
+2022-10-24 15:34:20,664 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-24 15:34:20,727 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-24 15:34:48,861 INFO f.Kiosk [main] Драйвер поднят
+2022-10-24 15:34:49,892 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-24 15:34:49,964 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-24 15:37:42,527 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-24 15:37:45,319 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 15:37:50,752 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 15:39:25,545 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 15:39:42,526 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 15:40:20,521 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 15:40:25,820 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 15:47:28,788 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 15:50:13,034 INFO c.FirstTest [main] Драйвер поднят
+2022-10-24 15:50:20,766 INFO c.FirstTest [main] Открыта страница отус
+2022-10-24 15:50:22,719 INFO c.FirstTest [main] Авторизация прошла успешно
+2022-10-24 15:50:27,301 INFO c.FirstTest [main] name = auth_token_expires , value = 1761223825
+2022-10-24 15:50:27,302 INFO c.FirstTest [main] name = advcake_track_id , value = fd0368a0-2c37-a79c-e250-e8b4fd618a48
+2022-10-24 15:50:27,302 INFO c.FirstTest [main] name = sessionid , value = vgare21vqr5rm4q4wc6ho151rdu43m66
+2022-10-24 15:50:27,303 INFO c.FirstTest [main] name = _ym_d , value = 1666615820
+2022-10-24 15:50:27,303 INFO c.FirstTest [main] name = oid , value = 31ce58ca9ff466642f478f220c3f2cee
+2022-10-24 15:50:27,304 INFO c.FirstTest [main] name = _tt_enable_cookie , value = 1
+2022-10-24 15:50:27,304 INFO c.FirstTest [main] name = _ym_visorc , value = w
+2022-10-24 15:50:27,304 INFO c.FirstTest [main] name = gdeslon.ru.__arc_domain , value = gdeslon.ru
+2022-10-24 15:50:27,305 INFO c.FirstTest [main] name = utm , value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-10-24 15:50:27,305 INFO c.FirstTest [main] name = _gid , value = GA1.2.2045150699.1666615820
+2022-10-24 15:50:27,305 INFO c.FirstTest [main] name = analytic_id , value = 1666615821225908
+2022-10-24 15:50:27,306 INFO c.FirstTest [main] name = _ym_uid , value = 16666158201029050891
+2022-10-24 15:50:27,306 INFO c.FirstTest [main] name = gdeslon.ru.user_id , value = cd606a46-ce4e-4559-82a6-55e33f28cb59
+2022-10-24 15:50:27,307 INFO c.FirstTest [main] name = _ym_isad , value = 2
+2022-10-24 15:50:27,307 INFO c.FirstTest [main] name = _gat , value = 1
+2022-10-24 15:50:27,307 INFO c.FirstTest [main] name = _ga , value = GA1.2.164994443.1666615820
+2022-10-24 15:50:27,308 INFO c.FirstTest [main] name = auth_token , value = QZLZCIBPR5EMoWrBMhPrLQ
+2022-10-24 15:50:27,308 INFO c.FirstTest [main] name = _ttp , value = 2c8ba75b-8903-4990-b954-bae3887d7d4a
+2022-10-24 15:50:27,309 INFO c.FirstTest [main] name = advcake_session_id , value = a64ac09a-acfe-785e-3970-a315aa562760
+2022-10-24 15:57:01,978 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 16:00:03,131 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 16:00:23,264 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 16:03:22,282 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-24 16:03:27,071 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 16:03:27,440 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 16:05:16,697 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-24 16:05:21,984 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 16:05:22,279 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 16:12:04,469 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-24 16:12:11,329 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 16:12:11,666 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 16:14:10,843 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-24 16:14:16,077 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 16:14:16,398 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 16:15:27,540 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-24 16:15:32,581 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 16:15:32,902 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-24 19:10:55,840 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-24 19:11:01,054 INFO h.BestTest [main]  Драйвер поднят
+2022-10-24 19:11:01,420 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-25 13:34:05,140 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-25 13:34:10,435 INFO h.BestTest [main]  Драйвер поднят
+2022-10-25 13:34:10,822 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-25 13:35:41,854 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 13:35:43,956 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 13:35:44,026 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-25 13:37:27,005 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 13:37:28,284 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 17:59:33,156 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-25 17:59:38,707 INFO h.BestTest [main]  Драйвер поднят
+2022-10-25 17:59:39,151 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-25 18:06:27,691 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-25 18:06:34,606 INFO h.BestTest [main]  Драйвер поднят
+2022-10-25 18:06:34,788 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-25 18:08:26,420 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-25 18:08:31,496 INFO h.BestTest [main]  Драйвер поднят
+2022-10-25 18:08:31,537 INFO h.BestTest [main] сравнение элементов
+2022-10-25 18:08:31,615 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-25 18:13:40,995 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 18:13:43,233 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 18:13:43,329 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-25 18:15:11,197 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 18:15:12,773 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 18:16:47,250 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-25 18:16:58,573 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 18:17:00,339 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 18:17:00,415 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-25 18:17:29,839 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 18:17:31,379 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 18:34:00,779 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-25 18:42:53,496 INFO c.FirstTest [main] Драйвер поднят
+2022-10-25 18:42:59,549 INFO c.FirstTest [main] Открыта страница отус
+2022-10-25 18:43:19,020 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 18:43:20,926 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 18:44:40,054 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 18:44:41,886 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 19:02:14,292 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 19:02:16,388 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 19:02:55,549 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 19:02:57,570 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 19:06:04,121 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 19:06:05,951 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 19:07:44,647 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 19:07:53,731 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 19:19:58,508 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 19:20:00,808 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 19:21:06,962 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 19:21:08,627 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 19:21:55,041 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 19:21:57,678 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 19:23:26,684 INFO f.Kiosk [main] Драйвер поднят
+2022-10-25 19:23:28,827 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-25 19:23:29,337 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-26 05:23:22,893 INFO f.Kiosk [main] Драйвер поднят
+2022-10-26 05:23:25,033 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-26 05:23:25,195 INFO f.Kiosk [main] Кликнул по картинке
+2022-10-26 05:49:57,891 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-26 05:50:06,101 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-26 05:50:13,003 INFO h.BestTest [main]  Драйвер поднят
+2022-10-26 05:50:13,045 INFO h.BestTest [main] сравнение элементов
+2022-10-26 05:50:13,167 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-26 05:56:32,787 INFO f.Kiosk [main] Драйвер поднят
+2022-10-26 05:56:34,355 INFO f.Kiosk [main] Открылся сайт с фото
+2022-10-26 05:56:34,539 INFO f.Kiosk [main] Картинка появилась
+2022-10-26 05:57:01,163 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-26 05:57:05,322 INFO h.BestTest [main]  Драйвер поднят
+2022-10-26 05:57:05,361 INFO h.BestTest [main] сравнение элементов
+2022-10-26 05:57:05,434 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-26 06:16:23,949 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-26 06:16:30,484 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-26 17:10:30,489 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-26 17:22:15,764 INFO h.BestTest [main]  Драйвер поднят
+2022-10-26 17:22:15,823 INFO h.BestTest [main] сравнение элементов
+2022-10-26 17:22:24,883 INFO h.BestTest [main]  Открытие в Headless Режиме
+2022-10-26 17:22:32,701 INFO h.BestTest [main]  Драйвер поднят
+2022-10-26 17:22:32,705 INFO h.BestTest [main] сравнение элементов
+2022-10-26 17:22:32,816 INFO h.BestTest [main] Драйвер выполнил работу
+2022-10-26 17:32:05,588 INFO c.FirstTest [main] ������� ������
+2022-10-26 17:32:09,757 INFO c.FirstTest [main] ������� �������� ����
+2022-10-26 17:32:12,312 INFO c.FirstTest [main] ����������� ������ �������
+2022-10-26 17:32:15,216 INFO c.FirstTest [main] name = auth_token_expires , value = 1761402732
+2022-10-26 17:32:15,216 INFO c.FirstTest [main] name = advcake_track_id , value = bf4d3b9a-f923-4a6e-13e1-3cf3d91030ce
+2022-10-26 17:32:15,217 INFO c.FirstTest [main] name = _ym_d , value = 1666794729
+2022-10-26 17:32:15,217 INFO c.FirstTest [main] name = oid , value = 31ce58ca9ff466642f478f220c3f2cee
+2022-10-26 17:32:15,217 INFO c.FirstTest [main] name = sessionid , value = g9gmejzjgcy2c72hjmwghbotgqkc4uok
+2022-10-26 17:32:15,218 INFO c.FirstTest [main] name = _tt_enable_cookie , value = 1
+2022-10-26 17:32:15,218 INFO c.FirstTest [main] name = _ym_visorc , value = w
+2022-10-26 17:32:15,218 INFO c.FirstTest [main] name = utm , value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-10-26 17:32:15,219 INFO c.FirstTest [main] name = _gid , value = GA1.2.380720808.1666794729
+2022-10-26 17:32:15,219 INFO c.FirstTest [main] name = gdeslon.ru.__arc_domain , value = gdeslon.ru
+2022-10-26 17:32:15,221 INFO c.FirstTest [main] name = analytic_id , value = 1666794729943977
+2022-10-26 17:32:15,221 INFO c.FirstTest [main] name = _ym_uid , value = 1666794729246324133
+2022-10-26 17:32:15,222 INFO c.FirstTest [main] name = gdeslon.ru.user_id , value = 0a94e531-7569-4545-ad84-b6665397e687
+2022-10-26 17:32:15,222 INFO c.FirstTest [main] name = _ym_isad , value = 2
+2022-10-26 17:32:15,223 INFO c.FirstTest [main] name = _gat , value = 1
+2022-10-26 17:32:15,224 INFO c.FirstTest [main] name = _ga , value = GA1.2.1035074402.1666794729
+2022-10-26 17:32:15,224 INFO c.FirstTest [main] name = auth_token , value = e1bT1xKvMeqwp4CzDlb5Hw
+2022-10-26 17:32:15,227 INFO c.FirstTest [main] name = _ttp , value = 6d3d5dc0-63ad-45d3-8d49-f7863a5db0d4
+2022-10-26 17:32:15,228 INFO c.FirstTest [main] name = advcake_session_id , value = fdb23590-632c-0ecb-9b45-27f641d2e60a
+2022-10-26 17:32:17,919 INFO f.KioskTest [main] ������� ������
+2022-10-26 17:32:20,329 INFO f.KioskTest [main] �������� ���� � ����
+2022-10-26 17:32:20,665 INFO f.KioskTest [main] �������� ���������
+2022-10-26 17:32:21,588 INFO h.BestTest [main]  �������� � Headless ������
+2022-10-26 17:32:27,246 INFO h.BestTest [main]  ������� ������
+2022-10-26 17:32:27,253 INFO h.BestTest [main] ��������� ���������
+2022-10-26 17:32:27,352 INFO h.BestTest [main] ������� �������� ������
